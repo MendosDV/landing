@@ -1,0 +1,23 @@
+.banner {
+  /* border: 5px solid red; */
+  height: 500px;
+  background-image: url(../../images/background.png);
+  background-size: cover;
+  background-position: center;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.card-principal {
+  height: 30%;
+}
+
+.card-principal h1 {
+  color: white;
+}
+
+.card-principal p {
+  color: rgba(255, 255, 255, 0.7);
+  margin-bottom: 36px;
+}

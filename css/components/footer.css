@@ -1,0 +1,18 @@
+.footer {
+  margin: 0;
+  padding-top: 24px;
+  padding-bottom: 50px;
+  background-color: #2C2B2B;
+  text-align: center;
+  color: rgba(128, 128, 128, 0.4);
+}
+
+.emoji li {
+  display: inline;
+  list-style: none;
+}
+
+.fa-brands {
+  color: #1EDD88;
+  font-size: 32px;
+}
